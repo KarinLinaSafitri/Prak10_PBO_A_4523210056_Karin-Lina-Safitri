@@ -18,6 +18,7 @@ iv.	Perbarui PIN jika validasi berhasil
 ![image](https://github.com/user-attachments/assets/08dbfd58-d3aa-4ef1-a944-4742b73ed1ba)
 
    Memverifikasi PIN lama, meminta dua input untuk PIN baru, memastikan bahwa kedua input cocok, dan memperbarui PIN jika semua validasi berhasil.
+   
 2.	Validasi Saldo Minimal pada saat penarikan
 a.	Modifikasi fitur penarikan sehingga nasabah harus menyisakan saldo minimal setelah penarikan dilakukan. Misal, saldo minial adalah Rp50,000-
  ![image](https://github.com/user-attachments/assets/6e9b5e29-275c-4af3-845b-b10267eff937)
